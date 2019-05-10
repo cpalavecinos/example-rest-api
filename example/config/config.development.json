@@ -1,0 +1,6 @@
+{
+    "name": "SERVER Development Mode",
+    "secret": "supersecret",
+    "mongoURL": "mongodb://mongo-node-1:27017,mongo-node-2:27017/exampleDB?replicaSet=rs0",
+    "expiresIn": "864000"
+ }

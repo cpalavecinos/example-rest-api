@@ -1,0 +1,84 @@
+[2019-03-07T13:42:19.798] [ERROR] app - catch 404 and forward to error handler: undefined
+[2019-03-07T13:42:19.798] [ERROR] app - catch 404 : Error request URL not found { Error: Error request URL not found
+    at c:\Microsoft VS Code\express\sample4\app.js:26:13
+    at Layer.handle [as handle_request] (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:317:13)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:335:12)
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:275:10)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:635:15
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:260:14)
+    at jsonParser (c:\Microsoft VS Code\express\sample4\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:317:13)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:335:12)
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:275:10)
+    at c:\Microsoft VS Code\express\sample4\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (c:\Microsoft VS Code\express\sample4\node_modules\raw-body\index.js:224:16) status: 404 }
+[2019-03-07T13:42:51.675] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T13:51:22.187] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T15:57:09.980] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T16:23:22.426] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T16:36:53.827] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-07T16:37:12.440] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-07T16:58:16.916] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T16:59:18.119] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T17:14:32.731] [ERROR] UserController - No user found.
+[2019-03-07T17:20:30.853] [ERROR] VerifyToken - No token provided
+[2019-03-07T17:22:23.673] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:23:15.932] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:29:42.921] [ERROR] UserController - There was a problem updating the user.
+[2019-03-07T17:31:01.454] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:31:14.641] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:31:51.291] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:33:08.632] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:34:20.011] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:49:51.537] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:50:07.526] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:50:09.345] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:53:39.745] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:55:27.135] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:55:44.315] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:04:04.870] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:04:35.968] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:32:43.872] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T18:32:46.068] [ERROR] UserController - No user found.
+[2019-03-07T18:32:59.507] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:34:55.287] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:35:31.071] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:35:44.984] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:37:14.616] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:37:44.011] [ERROR] UserController - No user found.
+[2019-03-07T18:37:58.858] [ERROR] VerifyToken - No token provided
+[2019-03-07T18:40:30.525] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:46:06.856] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:46:15.080] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:47:24.758] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:48:11.066] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:49:43.290] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:50:20.622] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:50:35.644] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:52:21.504] [ERROR] UserController - The email address pala2@tecnova.cl exist for other user.
+[2019-03-07T18:52:37.712] [ERROR] UserController - The email address pala2@tecnova.cl exist for other user.
+[2019-03-07T18:55:47.864] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:56:14.346] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T19:08:44.658] [ERROR] VerifyToken - Failed to authenticate token Unexpected end of JSON input
+[2019-03-07T19:08:57.514] [ERROR] VerifyToken - Failed to authenticate token Unexpected end of JSON input
+[2019-03-07T19:09:14.042] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:10:08.948] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:10:16.509] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:12:53.235] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-08T12:48:30.665] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.677] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.737] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.739] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.742] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.743] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.746] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.747] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.750] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.752] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-11T15:36:21.183] [ERROR] VerifyToken - Failed to authenticate token jwt expired
+[2019-03-11T16:31:41.207] [ERROR] VerifyToken - Failed to authenticate token invalid token
+[2019-04-17T16:37:12.033] [ERROR] VerifyToken - Failed to authenticate token jwt expired

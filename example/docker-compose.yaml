@@ -1,0 +1,34 @@
+version: '3'
+services:
+  example-rest-api:
+    build: .
+    depends_on:
+      - mongo
+    restart: always
+    expose: 
+      -  3000
+    ports:
+      -  "3000:3000"
+    links:
+      - mongo
+    labels:
+      tecnova.example.name: "example-rest-api"
+      tecnova.example.autor: "Cristian Palavecinos"
+      tecnova.example.categoria: "tutorial"
+  mongo:
+    image: mongo
+    environment:
+      - MONGO_INITDB_DATABASE=admin
+      - MONGO_INITDB_ROOT_USERNAME=mongouser
+      - MONGO_INITDB_ROOT_PASSWORD=supersecret
+    ports:
+      - "27017:27017"
+    expose: 
+      - 27017
+    volumes: 
+      - /docker-volumes/mongo/data/db:/data/db
+      - /docker-volumes/mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+    labels:
+      tecnova.example.name: "mongo-db-for-rest-api"
+      tecnova.example.autor: "Cristian Palavecinos"
+      tecnova.example.categoria: "tutorial"  

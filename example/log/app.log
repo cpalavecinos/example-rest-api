@@ -1,0 +1,1178 @@
+[2019-03-07T13:41:44.808] [INFO] startup - Express server listening on port  3000  with pid  19612
+[2019-03-07T13:41:54.071] [INFO] startup - Express server listening on port  3000  with pid  19648
+[2019-03-07T13:42:19.798] [ERROR] app - catch 404 and forward to error handler: undefined
+[2019-03-07T13:42:19.798] [ERROR] app - catch 404 : Error request URL not found { Error: Error request URL not found
+    at c:\Microsoft VS Code\express\sample4\app.js:26:13
+    at Layer.handle [as handle_request] (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:317:13)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:335:12)
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:275:10)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:635:15
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:260:14)
+    at jsonParser (c:\Microsoft VS Code\express\sample4\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:317:13)
+    at c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:335:12)
+    at next (c:\Microsoft VS Code\express\sample4\node_modules\express\lib\router\index.js:275:10)
+    at c:\Microsoft VS Code\express\sample4\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (c:\Microsoft VS Code\express\sample4\node_modules\raw-body\index.js:224:16) status: 404 }
+[2019-03-07T13:42:51.513] [DEBUG] AuthContorller - Init /register
+[2019-03-07T13:42:51.675] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T13:44:28.516] [INFO] startup - Express server listening on port  3000  with pid  8604
+[2019-03-07T13:44:33.942] [INFO] startup - Express server listening on port  3000  with pid  7960
+[2019-03-07T13:49:28.672] [INFO] startup - Express server listening on port  3000  with pid  23040
+[2019-03-07T13:51:13.309] [INFO] startup - Express server listening on port  3000  with pid  25364
+[2019-03-07T13:51:22.031] [DEBUG] AuthContorller - Init /register
+[2019-03-07T13:51:22.187] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T13:55:35.643] [INFO] server  - ******************************************************************************
+[2019-03-07T13:55:35.644] [INFO] server  - env             PORT undefined
+[2019-03-07T13:55:35.646] [INFO] server  - args            PORT undefined
+[2019-03-07T13:55:35.647] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T13:55:35.647] [INFO] server  - Express server listening on port  3000  with pid  21940
+[2019-03-07T13:55:51.632] [INFO] server  - env             PORT undefined
+[2019-03-07T13:55:51.633] [INFO] server  - args            PORT undefined
+[2019-03-07T13:55:51.634] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T13:55:51.634] [INFO] server  - Express server listening on port  3000  with pid  24496
+[2019-03-07T13:56:35.868] [INFO] server  - env             PORT undefined
+[2019-03-07T13:56:35.869] [INFO] server  - args            PORT undefined
+[2019-03-07T13:56:35.870] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T13:56:35.870] [INFO] server  - Express server listening on port  3000  with pid  24724
+[2019-03-07T13:57:03.524] [INFO] server  - env             PORT undefined
+[2019-03-07T13:57:03.525] [INFO] server  - args            PORT undefined
+[2019-03-07T13:57:03.525] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T13:57:03.526] [INFO] server  - Express server listening on port  3000  with pid  16604
+[2019-03-07T14:00:26.078] [INFO] server  - env             PORT undefined
+[2019-03-07T14:00:26.079] [INFO] server  - args            PORT undefined
+[2019-03-07T14:00:26.079] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T14:00:26.080] [INFO] server  - Express server listening on port  3000  with pid  21540
+[2019-03-07T14:00:26.976] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T14:00:56.555] [INFO] server  - env             PORT undefined
+[2019-03-07T14:00:56.556] [INFO] server  - args            PORT undefined
+[2019-03-07T14:00:56.556] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T14:00:56.556] [INFO] server  - Express server listening on port  3000  with pid  21760
+[2019-03-07T14:00:57.431] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T14:03:09.382] [INFO] server  - env             PORT undefined
+[2019-03-07T14:03:09.383] [INFO] server  - args            PORT undefined
+[2019-03-07T14:03:09.383] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T14:03:09.384] [INFO] server  - Express server listening on port  3000  with pid  1080
+[2019-03-07T14:03:10.383] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:54:13.622] [INFO] server  - env             PORT undefined
+[2019-03-07T15:54:13.624] [INFO] server  - args            PORT undefined
+[2019-03-07T15:54:13.625] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:54:13.625] [INFO] server  - Express server listening on port  3000  with pid  18160
+[2019-03-07T15:54:14.590] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:55:04.381] [INFO] server  - env             PORT undefined
+[2019-03-07T15:55:04.383] [INFO] server  - args            PORT undefined
+[2019-03-07T15:55:04.384] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:55:04.384] [INFO] server  - Express server listening on port  3000  with pid  15992
+[2019-03-07T15:55:05.258] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:55:28.320] [INFO] server  - env             PORT undefined
+[2019-03-07T15:55:28.322] [INFO] server  - args            PORT undefined
+[2019-03-07T15:55:28.323] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:55:28.323] [INFO] server  - Express server listening on port  3000  with pid  24456
+[2019-03-07T15:55:29.081] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:55:51.049] [INFO] server  - env             PORT undefined
+[2019-03-07T15:55:51.051] [INFO] server  - args            PORT undefined
+[2019-03-07T15:55:51.052] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:55:51.052] [INFO] server  - Express server listening on port  3000  with pid  14248
+[2019-03-07T15:55:51.942] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:56:21.052] [INFO] server  - env             PORT undefined
+[2019-03-07T15:56:21.054] [INFO] server  - args            PORT undefined
+[2019-03-07T15:56:21.054] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:56:21.054] [INFO] server  - Express server listening on port  3000  with pid  22692
+[2019-03-07T15:56:21.804] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:56:39.203] [INFO] server  - env             PORT undefined
+[2019-03-07T15:56:39.204] [INFO] server  - args            PORT undefined
+[2019-03-07T15:56:39.204] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:56:39.205] [INFO] server  - Express server listening on port  3000  with pid  19720
+[2019-03-07T15:56:40.964] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:56:57.509] [INFO] server  - env             PORT undefined
+[2019-03-07T15:56:57.510] [INFO] server  - args            PORT undefined
+[2019-03-07T15:56:57.511] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:56:57.511] [INFO] server  - Express server listening on port  3000  with pid  21084
+[2019-03-07T15:56:58.296] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:57:09.819] [DEBUG] AuthContorller - Init /register
+[2019-03-07T15:57:09.980] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T15:57:52.053] [INFO] server  - env             PORT undefined
+[2019-03-07T15:57:52.054] [INFO] server  - args            PORT undefined
+[2019-03-07T15:57:52.054] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:57:52.055] [INFO] server  - Express server listening on port  3000  with pid  25552
+[2019-03-07T15:57:52.987] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T15:59:43.292] [INFO] server  - env             PORT undefined
+[2019-03-07T15:59:43.293] [INFO] server  - args            PORT undefined
+[2019-03-07T15:59:43.294] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:59:43.294] [INFO] server  - Express server listening on port  3000  with pid  24472
+[2019-03-07T15:59:50.570] [INFO] server  - env             PORT undefined
+[2019-03-07T15:59:50.571] [INFO] server  - args            PORT undefined
+[2019-03-07T15:59:50.572] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T15:59:50.572] [INFO] server  - Express server listening on port  3000  with pid  24916
+[2019-03-07T15:59:51.485] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:00:12.205] [INFO] server  - env             PORT undefined
+[2019-03-07T16:00:12.206] [INFO] server  - args            PORT undefined
+[2019-03-07T16:00:12.208] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:00:12.209] [INFO] server  - Express server listening on port  3000  with pid  1496
+[2019-03-07T16:00:14.372] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:00:18.982] [INFO] server  - env             PORT undefined
+[2019-03-07T16:00:18.983] [INFO] server  - args            PORT undefined
+[2019-03-07T16:00:18.983] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:00:18.984] [INFO] server  - Express server listening on port  3000  with pid  23060
+[2019-03-07T16:00:19.865] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:01:23.229] [INFO] server  - env             PORT undefined
+[2019-03-07T16:01:23.230] [INFO] server  - args            PORT undefined
+[2019-03-07T16:01:23.231] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:01:23.231] [INFO] server  - Express server listening on port  3000  with pid  15556
+[2019-03-07T16:01:24.154] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:02:00.445] [INFO] server  - env             PORT undefined
+[2019-03-07T16:02:00.446] [INFO] server  - args            PORT undefined
+[2019-03-07T16:02:00.446] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:02:00.446] [INFO] server  - Express server listening on port  3000  with pid  23444
+[2019-03-07T16:02:01.204] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:02:28.946] [INFO] server  - env             PORT undefined
+[2019-03-07T16:02:28.947] [INFO] server  - args            PORT undefined
+[2019-03-07T16:02:28.947] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:02:28.948] [INFO] server  - Express server listening on port  3000  with pid  23040
+[2019-03-07T16:02:29.724] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:03:08.236] [INFO] server  - env             PORT undefined
+[2019-03-07T16:03:08.237] [INFO] server  - args            PORT undefined
+[2019-03-07T16:03:08.238] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:03:08.238] [INFO] server  - Express server listening on port  3000  with pid  24308
+[2019-03-07T16:03:09.286] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:03:18.884] [INFO] server  - env             PORT undefined
+[2019-03-07T16:03:18.885] [INFO] server  - args            PORT undefined
+[2019-03-07T16:03:18.885] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:03:18.885] [INFO] server  - Express server listening on port  3000  with pid  17208
+[2019-03-07T16:03:19.647] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:04:02.580] [INFO] server  - env             PORT undefined
+[2019-03-07T16:04:02.581] [INFO] server  - args            PORT undefined
+[2019-03-07T16:04:02.581] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:04:02.582] [INFO] server  - Express server listening on port  3000  with pid  22996
+[2019-03-07T16:04:03.440] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:04:32.669] [INFO] server  - env             PORT undefined
+[2019-03-07T16:04:32.671] [INFO] server  - args            PORT undefined
+[2019-03-07T16:04:32.671] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:04:32.672] [INFO] server  - Express server listening on port  3000  with pid  21544
+[2019-03-07T16:04:33.432] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:05:43.148] [INFO] server  - NODE_ENV             development 
+[2019-03-07T16:05:43.151] [INFO] server  - env             PORT undefined
+[2019-03-07T16:05:43.151] [INFO] server  - args            PORT undefined
+[2019-03-07T16:05:43.151] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:05:43.152] [INFO] server  - Express server listening on port  3000  with pid  22680
+[2019-03-07T16:05:44.027] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:05:54.617] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:05:54.619] [INFO] server  - env             PORT undefined
+[2019-03-07T16:05:54.619] [INFO] server  - args            PORT undefined
+[2019-03-07T16:05:54.620] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:05:54.620] [INFO] server  - Express server listening on port  3000  with pid  23504
+[2019-03-07T16:05:55.416] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:09:18.218] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:09:18.220] [INFO] server  - env             PORT undefined
+[2019-03-07T16:09:18.221] [INFO] server  - args            PORT undefined
+[2019-03-07T16:09:18.221] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:09:18.221] [INFO] server  - Express server listening on port  3000  with pid  16692
+[2019-03-07T16:09:19.101] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:09:25.777] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:09:25.779] [INFO] server  - env             PORT undefined
+[2019-03-07T16:09:25.779] [INFO] server  - args            PORT undefined
+[2019-03-07T16:09:25.779] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:09:25.780] [INFO] server  - Express server listening on port  3000  with pid  20656
+[2019-03-07T16:09:26.540] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:09:33.169] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:09:33.171] [INFO] server  - env             PORT undefined
+[2019-03-07T16:09:33.171] [INFO] server  - args            PORT undefined
+[2019-03-07T16:09:33.172] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:09:33.172] [INFO] server  - Express server listening on port  3000  with pid  2668
+[2019-03-07T16:09:33.959] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:10:10.964] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:10:10.966] [INFO] server  - env             PORT undefined
+[2019-03-07T16:10:10.966] [INFO] server  - args            PORT undefined
+[2019-03-07T16:10:10.966] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:10:10.967] [INFO] server  - Express server listening on port  3000  with pid  18832
+[2019-03-07T16:10:11.780] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:11:24.755] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:11:24.757] [INFO] server  - env             PORT undefined
+[2019-03-07T16:11:24.758] [INFO] server  - args            PORT undefined
+[2019-03-07T16:11:24.758] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:11:24.758] [INFO] server  - Express server listening on port  3000  with pid  23152
+[2019-03-07T16:11:25.709] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:11:44.493] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:11:44.495] [INFO] server  - env             PORT undefined
+[2019-03-07T16:11:44.496] [INFO] server  - args            PORT undefined
+[2019-03-07T16:11:44.496] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:11:44.496] [INFO] server  - Express server listening on port  3000  with pid  24864
+[2019-03-07T16:11:45.262] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:12:18.926] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:12:18.928] [INFO] server  - env             PORT undefined
+[2019-03-07T16:12:18.929] [INFO] server  - args            PORT undefined
+[2019-03-07T16:12:18.929] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:12:18.930] [INFO] server  - Express server listening on port  3000  with pid  24236
+[2019-03-07T16:12:19.682] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:13:57.979] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:13:57.981] [INFO] server  - env             PORT undefined
+[2019-03-07T16:13:57.982] [INFO] server  - args            PORT undefined
+[2019-03-07T16:13:57.982] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:13:57.983] [INFO] server  - Express server listening on port  3000  with pid  22228
+[2019-03-07T16:13:59.034] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:15:12.870] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:15:12.872] [INFO] server  - env             PORT undefined
+[2019-03-07T16:15:12.872] [INFO] server  - args            PORT undefined
+[2019-03-07T16:15:12.873] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:15:12.873] [INFO] server  - Express server listening on port  3000  with pid  20364
+[2019-03-07T16:15:13.649] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:15:38.427] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:15:38.429] [INFO] server  - env             PORT undefined
+[2019-03-07T16:15:38.429] [INFO] server  - args            PORT undefined
+[2019-03-07T16:15:38.430] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:15:38.430] [INFO] server  - Express server listening on port  3000  with pid  3516
+[2019-03-07T16:15:39.322] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:17:27.185] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:17:27.187] [INFO] server  - env             PORT undefined
+[2019-03-07T16:17:27.188] [INFO] server  - args            PORT undefined
+[2019-03-07T16:17:27.188] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:17:27.188] [INFO] server  - Express server listening on port  3000  with pid  24004
+[2019-03-07T16:17:28.059] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:17:44.783] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:17:44.786] [INFO] server  - env             PORT undefined
+[2019-03-07T16:17:44.786] [INFO] server  - args            PORT undefined
+[2019-03-07T16:17:44.787] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:17:44.787] [INFO] server  - Express server listening on port  3000  with pid  18376
+[2019-03-07T16:17:45.537] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:18:56.421] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:18:56.423] [INFO] server  - env             PORT undefined
+[2019-03-07T16:18:56.423] [INFO] server  - args            PORT undefined
+[2019-03-07T16:18:56.424] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:18:56.424] [INFO] server  - Express server listening on port  3000  with pid  23040
+[2019-03-07T16:18:57.330] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:21:46.134] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:21:46.137] [INFO] server  - env             PORT undefined
+[2019-03-07T16:21:46.137] [INFO] server  - args            PORT undefined
+[2019-03-07T16:21:46.138] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:21:46.138] [INFO] server  - Express server listening on port  3000  with pid  1176
+[2019-03-07T16:21:47.154] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:22:52.205] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:22:52.208] [INFO] server  - env             PORT undefined
+[2019-03-07T16:22:52.209] [INFO] server  - args            PORT undefined
+[2019-03-07T16:22:52.210] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:22:52.210] [INFO] server  - Express server listening on port  3000  with pid  23664
+[2019-03-07T16:22:53.080] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:23:06.758] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:23:06.761] [INFO] server  - env             PORT undefined
+[2019-03-07T16:23:06.761] [INFO] server  - args            PORT undefined
+[2019-03-07T16:23:06.761] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:23:06.762] [INFO] server  - Express server listening on port  3000  with pid  10760
+[2019-03-07T16:23:07.491] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:23:15.690] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:23:15.692] [INFO] server  - env             PORT undefined
+[2019-03-07T16:23:15.693] [INFO] server  - args            PORT undefined
+[2019-03-07T16:23:15.693] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:23:15.694] [INFO] server  - Express server listening on port  3000  with pid  25488
+[2019-03-07T16:23:16.456] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:23:22.276] [DEBUG] AuthContorller - Init /register
+[2019-03-07T16:23:22.426] [ERROR] AuthContorller - The email address pala@tecnova.cl exist.
+[2019-03-07T16:23:38.936] [DEBUG] AuthContorller - Init /register
+[2019-03-07T16:23:39.311] [DEBUG] AuthContorller - End /register
+[2019-03-07T16:24:48.898] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:24:48.901] [INFO] server  - env             PORT undefined
+[2019-03-07T16:24:48.901] [INFO] server  - args            PORT undefined
+[2019-03-07T16:24:48.902] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:24:48.902] [INFO] server  - Express server listening on port  3000  with pid  24324
+[2019-03-07T16:24:49.857] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:26:03.585] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:26:03.587] [INFO] server  - env             PORT undefined
+[2019-03-07T16:26:03.588] [INFO] server  - args            PORT undefined
+[2019-03-07T16:26:03.588] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:26:03.588] [INFO] server  - Express server listening on port  3000  with pid  23940
+[2019-03-07T16:26:04.365] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:27:47.684] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:27:47.687] [INFO] server  - env             PORT undefined
+[2019-03-07T16:27:47.687] [INFO] server  - args            PORT undefined
+[2019-03-07T16:27:47.688] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:27:47.688] [INFO] server  - Express server listening on port  3000  with pid  23176
+[2019-03-07T16:27:48.626] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:33:19.272] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:33:19.275] [INFO] server  - env             PORT undefined
+[2019-03-07T16:33:19.275] [INFO] server  - args            PORT undefined
+[2019-03-07T16:33:19.276] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:33:19.276] [INFO] server  - Express server listening on port  3000  with pid  19912
+[2019-03-07T16:33:20.041] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:33:26.300] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:33:26.302] [INFO] server  - env             PORT undefined
+[2019-03-07T16:33:26.303] [INFO] server  - args            PORT undefined
+[2019-03-07T16:33:26.303] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:33:26.303] [INFO] server  - Express server listening on port  3000  with pid  5680
+[2019-03-07T16:33:27.232] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:33:44.278] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:33:44.280] [INFO] server  - env             PORT undefined
+[2019-03-07T16:33:44.281] [INFO] server  - args            PORT undefined
+[2019-03-07T16:33:44.281] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:33:44.282] [INFO] server  - Express server listening on port  3000  with pid  18316
+[2019-03-07T16:33:45.061] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:34:03.672] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:34:03.674] [INFO] server  - env             PORT undefined
+[2019-03-07T16:34:03.675] [INFO] server  - args            PORT undefined
+[2019-03-07T16:34:03.675] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:34:03.676] [INFO] server  - Express server listening on port  3000  with pid  25068
+[2019-03-07T16:34:04.552] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:34:09.965] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:34:09.967] [INFO] server  - env             PORT undefined
+[2019-03-07T16:34:09.968] [INFO] server  - args            PORT undefined
+[2019-03-07T16:34:09.968] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:34:09.968] [INFO] server  - Express server listening on port  3000  with pid  22960
+[2019-03-07T16:34:10.996] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:35:21.890] [INFO] app - catch undefined : err is not defined
+[2019-03-07T16:35:50.971] [INFO] app - catch undefined : err is not defined
+[2019-03-07T16:36:49.234] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:36:49.236] [INFO] server  - env             PORT undefined
+[2019-03-07T16:36:49.236] [INFO] server  - args            PORT undefined
+[2019-03-07T16:36:49.237] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:36:49.237] [INFO] server  - Express server listening on port  3000  with pid  24928
+[2019-03-07T16:36:50.280] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:36:53.827] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-07T16:36:53.828] [INFO] app - catch 404 : Error request URL not found
+[2019-03-07T16:37:12.440] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-07T16:37:12.441] [INFO] app - catch 404 : Error request URL not found
+[2019-03-07T16:38:08.433] [INFO] UserController - All users Init
+[2019-03-07T16:38:08.585] [INFO] UserController - All users End
+[2019-03-07T16:40:27.258] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:40:27.261] [INFO] server  - env             PORT undefined
+[2019-03-07T16:40:27.261] [INFO] server  - args            PORT undefined
+[2019-03-07T16:40:27.262] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:40:27.262] [INFO] server  - Express server listening on port  3000  with pid  24360
+[2019-03-07T16:40:28.277] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:41:49.347] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:41:49.349] [INFO] server  - env             PORT undefined
+[2019-03-07T16:41:49.350] [INFO] server  - args            PORT undefined
+[2019-03-07T16:41:49.350] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:41:49.350] [INFO] server  - Express server listening on port  3000  with pid  19792
+[2019-03-07T16:41:50.235] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:42:08.554] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:42:08.557] [INFO] server  - env             PORT undefined
+[2019-03-07T16:42:08.557] [INFO] server  - args            PORT undefined
+[2019-03-07T16:42:08.557] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:42:08.558] [INFO] server  - Express server listening on port  3000  with pid  18300
+[2019-03-07T16:42:09.533] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:42:13.490] [INFO] UserController - All users Init
+[2019-03-07T16:42:13.682] [INFO] UserController - All users End
+[2019-03-07T16:43:19.278] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:43:19.280] [INFO] server  - env             PORT undefined
+[2019-03-07T16:43:19.280] [INFO] server  - args            PORT undefined
+[2019-03-07T16:43:19.281] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:43:19.281] [INFO] server  - Express server listening on port  3000  with pid  20968
+[2019-03-07T16:43:20.215] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:43:38.658] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:43:38.661] [INFO] server  - env             PORT undefined
+[2019-03-07T16:43:38.662] [INFO] server  - args            PORT undefined
+[2019-03-07T16:43:38.662] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:43:38.663] [INFO] server  - Express server listening on port  3000  with pid  24540
+[2019-03-07T16:43:39.539] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:44:10.508] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:44:10.511] [INFO] server  - env             PORT undefined
+[2019-03-07T16:44:10.511] [INFO] server  - args            PORT undefined
+[2019-03-07T16:44:10.512] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:44:10.512] [INFO] server  - Express server listening on port  3000  with pid  20144
+[2019-03-07T16:44:11.266] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:44:22.075] [INFO] UserController - All users Init
+[2019-03-07T16:44:22.229] [INFO] UserController - All users End
+[2019-03-07T16:44:54.161] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:44:54.163] [INFO] server  - env             PORT undefined
+[2019-03-07T16:44:54.164] [INFO] server  - args            PORT undefined
+[2019-03-07T16:44:54.164] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:44:54.164] [INFO] server  - Express server listening on port  3000  with pid  25220
+[2019-03-07T16:44:54.930] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:46:17.874] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:46:17.877] [INFO] server  - env             PORT undefined
+[2019-03-07T16:46:17.878] [INFO] server  - args            PORT undefined
+[2019-03-07T16:46:17.878] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:46:17.878] [INFO] server  - Express server listening on port  3000  with pid  20204
+[2019-03-07T16:46:18.745] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:47:54.602] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:47:54.605] [INFO] server  - env             PORT undefined
+[2019-03-07T16:47:54.605] [INFO] server  - args            PORT undefined
+[2019-03-07T16:47:54.606] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:47:54.606] [INFO] server  - Express server listening on port  3000  with pid  22104
+[2019-03-07T16:47:55.538] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:48:16.524] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:48:16.527] [INFO] server  - env             PORT undefined
+[2019-03-07T16:48:16.528] [INFO] server  - args            PORT undefined
+[2019-03-07T16:48:16.528] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:48:16.528] [INFO] server  - Express server listening on port  3000  with pid  20712
+[2019-03-07T16:48:17.279] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:48:47.976] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:48:47.979] [INFO] server  - env             PORT undefined
+[2019-03-07T16:48:47.979] [INFO] server  - args            PORT undefined
+[2019-03-07T16:48:47.979] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:48:47.980] [INFO] server  - Express server listening on port  3000  with pid  20452
+[2019-03-07T16:48:48.746] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:49:46.971] [INFO] UserController - Create user Init
+[2019-03-07T16:49:47.123] [INFO] UserController - Create user End
+[2019-03-07T16:52:26.796] [INFO] UserController - All users Init
+[2019-03-07T16:52:26.939] [INFO] UserController - All users End
+[2019-03-07T16:55:21.479] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:55:21.482] [INFO] server  - env             PORT undefined
+[2019-03-07T16:55:21.482] [INFO] server  - args            PORT undefined
+[2019-03-07T16:55:21.483] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:55:21.483] [INFO] server  - Express server listening on port  3000  with pid  21764
+[2019-03-07T16:55:22.403] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:56:09.691] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:56:09.694] [INFO] server  - env             PORT undefined
+[2019-03-07T16:56:09.694] [INFO] server  - args            PORT undefined
+[2019-03-07T16:56:09.694] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:56:09.695] [INFO] server  - Express server listening on port  3000  with pid  25544
+[2019-03-07T16:56:10.409] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:57:00.478] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:57:00.481] [INFO] server  - env             PORT undefined
+[2019-03-07T16:57:00.481] [INFO] server  - args            PORT undefined
+[2019-03-07T16:57:00.482] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:57:00.482] [INFO] server  - Express server listening on port  3000  with pid  18632
+[2019-03-07T16:57:01.388] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:57:06.748] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:57:06.750] [INFO] server  - env             PORT undefined
+[2019-03-07T16:57:06.751] [INFO] server  - args            PORT undefined
+[2019-03-07T16:57:06.751] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:57:06.752] [INFO] server  - Express server listening on port  3000  with pid  20572
+[2019-03-07T16:57:07.502] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:57:34.035] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:57:34.037] [INFO] server  - env             PORT undefined
+[2019-03-07T16:57:34.038] [INFO] server  - args            PORT undefined
+[2019-03-07T16:57:34.038] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:57:34.038] [INFO] server  - Express server listening on port  3000  with pid  20768
+[2019-03-07T16:57:35.547] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:57:35.550] [INFO] server  - env             PORT undefined
+[2019-03-07T16:57:35.550] [INFO] server  - args            PORT undefined
+[2019-03-07T16:57:35.550] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:57:35.551] [INFO] server  - Express server listening on port  3000  with pid  10788
+[2019-03-07T16:57:36.332] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:57:45.542] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T16:57:45.699] [INFO] UserController - Single user End
+[2019-03-07T16:57:54.903] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T16:57:55.046] [INFO] UserController - Single user End
+[2019-03-07T16:58:12.186] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T16:58:12.328] [INFO] UserController - Single user End
+[2019-03-07T16:58:16.914] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3ss
+[2019-03-07T16:58:16.916] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T16:58:28.922] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T16:58:29.068] [INFO] UserController - Single user End
+[2019-03-07T16:59:10.552] [INFO] server  - NODE_ENV        development 
+[2019-03-07T16:59:10.554] [INFO] server  - env             PORT undefined
+[2019-03-07T16:59:10.554] [INFO] server  - args            PORT undefined
+[2019-03-07T16:59:10.555] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T16:59:10.555] [INFO] server  - Express server listening on port  3000  with pid  13328
+[2019-03-07T16:59:11.373] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T16:59:13.240] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T16:59:13.402] [INFO] UserController - Single user End
+[2019-03-07T16:59:18.117] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd31
+[2019-03-07T16:59:18.119] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T17:00:50.669] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:00:50.672] [INFO] server  - env             PORT undefined
+[2019-03-07T17:00:50.672] [INFO] server  - args            PORT undefined
+[2019-03-07T17:00:50.672] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:00:50.673] [INFO] server  - Express server listening on port  3000  with pid  23336
+[2019-03-07T17:00:51.604] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:02:04.163] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:02:04.166] [INFO] server  - env             PORT undefined
+[2019-03-07T17:02:04.166] [INFO] server  - args            PORT undefined
+[2019-03-07T17:02:04.166] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:02:04.167] [INFO] server  - Express server listening on port  3000  with pid  25116
+[2019-03-07T17:02:04.960] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:02:59.584] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:02:59.586] [INFO] server  - env             PORT undefined
+[2019-03-07T17:02:59.586] [INFO] server  - args            PORT undefined
+[2019-03-07T17:02:59.587] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:02:59.587] [INFO] server  - Express server listening on port  3000  with pid  23088
+[2019-03-07T17:03:00.550] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:04:22.949] [INFO] UserController - Delete user Init id: dsadsadsa
+[2019-03-07T17:05:17.065] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:05:17.067] [INFO] server  - env             PORT undefined
+[2019-03-07T17:05:17.067] [INFO] server  - args            PORT undefined
+[2019-03-07T17:05:17.069] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:05:17.069] [INFO] server  - Express server listening on port  3000  with pid  23200
+[2019-03-07T17:05:17.974] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:05:18.686] [INFO] UserController - Delete user Init id: dsadsadsa
+[2019-03-07T17:06:52.495] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:06:52.498] [INFO] server  - env             PORT undefined
+[2019-03-07T17:06:52.498] [INFO] server  - args            PORT undefined
+[2019-03-07T17:06:52.498] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:06:52.499] [INFO] server  - Express server listening on port  3000  with pid  23444
+[2019-03-07T17:06:53.262] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:09:07.438] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:09:07.441] [INFO] server  - env             PORT undefined
+[2019-03-07T17:09:07.441] [INFO] server  - args            PORT undefined
+[2019-03-07T17:09:07.442] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:09:07.442] [INFO] server  - Express server listening on port  3000  with pid  23840
+[2019-03-07T17:09:08.346] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:09:26.288] [INFO] UserController - All users Init
+[2019-03-07T17:09:26.442] [INFO] UserController - All users End
+[2019-03-07T17:09:58.888] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:09:59.031] [INFO] UserController - Delete user End
+[2019-03-07T17:10:08.646] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:12:54.154] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:12:54.156] [INFO] server  - env             PORT undefined
+[2019-03-07T17:12:54.156] [INFO] server  - args            PORT undefined
+[2019-03-07T17:12:54.157] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:12:54.157] [INFO] server  - Express server listening on port  3000  with pid  17580
+[2019-03-07T17:12:55.063] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:13:24.071] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:13:24.074] [INFO] server  - env             PORT undefined
+[2019-03-07T17:13:24.074] [INFO] server  - args            PORT undefined
+[2019-03-07T17:13:24.074] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:13:24.075] [INFO] server  - Express server listening on port  3000  with pid  22940
+[2019-03-07T17:13:24.881] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:13:28.233] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:13:28.392] [INFO] UserController - Delete user End
+[2019-03-07T17:13:40.456] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:13:40.603] [INFO] UserController - Delete user End
+[2019-03-07T17:14:02.303] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:14:02.306] [INFO] server  - env             PORT undefined
+[2019-03-07T17:14:02.306] [INFO] server  - args            PORT undefined
+[2019-03-07T17:14:02.306] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:14:02.307] [INFO] server  - Express server listening on port  3000  with pid  21956
+[2019-03-07T17:14:03.188] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:14:07.495] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:14:07.497] [INFO] server  - env             PORT undefined
+[2019-03-07T17:14:07.497] [INFO] server  - args            PORT undefined
+[2019-03-07T17:14:07.498] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:14:07.498] [INFO] server  - Express server listening on port  3000  with pid  14904
+[2019-03-07T17:14:08.391] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:14:11.189] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:14:11.379] [INFO] UserController - Delete user End
+[2019-03-07T17:14:30.656] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:14:30.658] [INFO] server  - env             PORT undefined
+[2019-03-07T17:14:30.660] [INFO] server  - args            PORT undefined
+[2019-03-07T17:14:30.660] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:14:30.660] [INFO] server  - Express server listening on port  3000  with pid  19788
+[2019-03-07T17:14:31.542] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:14:32.581] [INFO] UserController - Delete user Init id: 5c816fbb54f3d56390bc0dc7
+[2019-03-07T17:14:32.731] [ERROR] UserController - No user found.
+[2019-03-07T17:15:55.501] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:15:55.503] [INFO] server  - env             PORT undefined
+[2019-03-07T17:15:55.504] [INFO] server  - args            PORT undefined
+[2019-03-07T17:15:55.504] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:15:55.504] [INFO] server  - Express server listening on port  3000  with pid  9164
+[2019-03-07T17:16:01.776] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:18:15.308] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:18:15.310] [INFO] server  - env             PORT undefined
+[2019-03-07T17:18:15.310] [INFO] server  - args            PORT undefined
+[2019-03-07T17:18:15.310] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:18:15.311] [INFO] server  - Express server listening on port  3000  with pid  20320
+[2019-03-07T17:18:16.078] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:19:02.650] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:19:02.652] [INFO] server  - env             PORT undefined
+[2019-03-07T17:19:02.652] [INFO] server  - args            PORT undefined
+[2019-03-07T17:19:02.653] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:19:02.653] [INFO] server  - Express server listening on port  3000  with pid  24840
+[2019-03-07T17:19:03.429] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:20:12.936] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:20:12.938] [INFO] server  - env             PORT undefined
+[2019-03-07T17:20:12.938] [INFO] server  - args            PORT undefined
+[2019-03-07T17:20:12.939] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:20:12.939] [INFO] server  - Express server listening on port  3000  with pid  8964
+[2019-03-07T17:20:13.709] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:20:30.852] [INFO] VerifyToken - verifyToken Init token undefined
+[2019-03-07T17:20:30.853] [ERROR] VerifyToken - No token provided
+[2019-03-07T17:21:45.414] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:21:45.416] [INFO] server  - env             PORT undefined
+[2019-03-07T17:21:45.417] [INFO] server  - args            PORT undefined
+[2019-03-07T17:21:45.417] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:21:45.417] [INFO] server  - Express server listening on port  3000  with pid  20856
+[2019-03-07T17:21:46.391] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:22:23.670] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODEzNDNlYzhkZGU4MThhYzBhNGNlYiIsImlhdCI6MTU1MTk3MTM5MCwiZXhwIjoxNTUxOTcxNDc2fQ.kKA9oPNKa7N0Mgzp7J520rApowup2ol6P42IAPZsk7s
+[2019-03-07T17:22:23.673] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:23:15.896] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjN2Q4YWE0MjEwOWUwM2UyNGE2YjBiOSIsImlhdCI6MTU1MTczMTM2NCwiZXhwIjoxNTUxODE3NzY0fQ.Wf-F0fOttyEcTDspsoGU8JTXGPM84j16IXC9rl9xGfo
+[2019-03-07T17:23:15.932] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:23:35.520] [INFO] UserController - All users Init
+[2019-03-07T17:23:35.691] [INFO] UserController - All users End
+[2019-03-07T17:25:55.819] [INFO] UserController - All users Init
+[2019-03-07T17:25:55.966] [INFO] UserController - All users End
+[2019-03-07T17:27:17.099] [INFO] UserController - Delete user Init id: 5c81343ec8dde818ac0a4ceb
+[2019-03-07T17:27:17.249] [INFO] UserController - Delete user End
+[2019-03-07T17:27:24.078] [INFO] UserController - All users Init
+[2019-03-07T17:27:24.224] [INFO] UserController - All users End
+[2019-03-07T17:27:39.952] [INFO] UserController - Delete user Init id: 5c8175daf387204fe4e0cbd3
+[2019-03-07T17:27:40.098] [INFO] UserController - Delete user End
+[2019-03-07T17:27:51.109] [INFO] UserController - All users Init
+[2019-03-07T17:27:51.391] [INFO] UserController - All users End
+[2019-03-07T17:28:23.243] [DEBUG] AuthContorller - Init /register
+[2019-03-07T17:28:23.603] [DEBUG] AuthContorller - End /register
+[2019-03-07T17:28:42.563] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:28:42.564] [INFO] VerifyToken - verifyToken Ens userid5c817ee754f54951789e12df
+[2019-03-07T17:29:42.913] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDU1MCwiZXhwIjoxNTUxOTkwNjM2fQ.perVp0jlhLGkKvPrjFhV80EwRIah-LhG_wMeTdURv6U
+[2019-03-07T17:29:42.914] [INFO] VerifyToken - verifyToken Ens userid5c817ee754f54951789e12df
+[2019-03-07T17:29:42.915] [INFO] UserController - Update user Init id: xxxxx
+[2019-03-07T17:29:42.921] [ERROR] UserController - There was a problem updating the user.
+[2019-03-07T17:30:34.870] [INFO] UserController - All users Init
+[2019-03-07T17:30:35.015] [INFO] UserController - All users End
+[2019-03-07T17:31:01.454] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDU1MCwiZXhwIjoxNTUxOTkwNjM2fQ.perVp0jlhLGkKvPrjFhV80EwRIah-LhG_wMeTdURv6U
+[2019-03-07T17:31:01.454] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:31:14.640] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDU1MCwiZXhwIjoxNTUxOTkwNjM2fQ.perVp0jlhLGkKvPrjFhV80EwRIah-LhG_wMeTdURv6U
+[2019-03-07T17:31:14.641] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:31:51.290] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:31:51.291] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:32:25.531] [INFO] UserController - All users Init
+[2019-03-07T17:32:25.676] [INFO] UserController - All users End
+[2019-03-07T17:32:43.744] [INFO] UserController - All users Init
+[2019-03-07T17:32:43.889] [INFO] UserController - All users End
+[2019-03-07T17:33:08.631] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:33:08.632] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:34:17.889] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:34:17.891] [INFO] server  - env             PORT undefined
+[2019-03-07T17:34:17.892] [INFO] server  - args            PORT undefined
+[2019-03-07T17:34:17.892] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:34:17.893] [INFO] server  - Express server listening on port  3000  with pid  10964
+[2019-03-07T17:34:18.785] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:34:20.006] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:34:20.011] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:35:27.220] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDg5OSwiZXhwIjoxNTUxOTkwOTg1fQ.CUgL_bW4DqLrCAbgoFY9UhWJba4diVvGh7Aoeeq77ko
+[2019-03-07T17:35:27.221] [INFO] VerifyToken - verifyToken Ens userid5c817ee754f54951789e12df
+[2019-03-07T17:35:27.222] [INFO] UserController - Update user Init id: 5c817ee754f54951789e12df
+[2019-03-07T17:35:27.370] [INFO] UserController - Update user End
+[2019-03-07T17:37:18.256] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:37:18.259] [INFO] server  - env             PORT undefined
+[2019-03-07T17:37:18.259] [INFO] server  - args            PORT undefined
+[2019-03-07T17:37:18.260] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:37:18.260] [INFO] server  - Express server listening on port  3000  with pid  1720
+[2019-03-07T17:37:19.149] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:37:39.458] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:37:39.461] [INFO] server  - env             PORT undefined
+[2019-03-07T17:37:39.461] [INFO] server  - args            PORT undefined
+[2019-03-07T17:37:39.462] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:37:39.463] [INFO] server  - Express server listening on port  3000  with pid  4436
+[2019-03-07T17:37:40.375] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:41:20.722] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:41:20.724] [INFO] server  - env             PORT undefined
+[2019-03-07T17:41:20.724] [INFO] server  - args            PORT undefined
+[2019-03-07T17:41:20.724] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:41:20.725] [INFO] server  - Express server listening on port  3000  with pid  22904
+[2019-03-07T17:41:21.452] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:41:28.559] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:41:28.561] [INFO] server  - env             PORT undefined
+[2019-03-07T17:41:28.561] [INFO] server  - args            PORT undefined
+[2019-03-07T17:41:28.562] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:41:28.562] [INFO] server  - Express server listening on port  3000  with pid  24904
+[2019-03-07T17:41:29.494] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:44:33.789] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:44:33.792] [INFO] server  - env             PORT undefined
+[2019-03-07T17:44:33.792] [INFO] server  - args            PORT undefined
+[2019-03-07T17:44:33.793] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:44:33.793] [INFO] server  - Express server listening on port  3000  with pid  19820
+[2019-03-07T17:44:34.798] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:46:04.514] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:46:04.516] [INFO] server  - env             PORT undefined
+[2019-03-07T17:46:04.517] [INFO] server  - args            PORT undefined
+[2019-03-07T17:46:04.517] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:46:04.517] [INFO] server  - Express server listening on port  3000  with pid  17804
+[2019-03-07T17:46:05.433] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:46:51.764] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:46:51.766] [INFO] server  - env             PORT undefined
+[2019-03-07T17:46:51.767] [INFO] server  - args            PORT undefined
+[2019-03-07T17:46:51.768] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:46:51.768] [INFO] server  - Express server listening on port  3000  with pid  17172
+[2019-03-07T17:46:52.493] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:47:33.619] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:47:33.621] [INFO] server  - env             PORT undefined
+[2019-03-07T17:47:33.622] [INFO] server  - args            PORT undefined
+[2019-03-07T17:47:33.622] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:47:33.623] [INFO] server  - Express server listening on port  3000  with pid  21456
+[2019-03-07T17:47:34.406] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:47:51.955] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:47:51.957] [INFO] server  - env             PORT undefined
+[2019-03-07T17:47:51.958] [INFO] server  - args            PORT undefined
+[2019-03-07T17:47:51.958] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:47:51.958] [INFO] server  - Express server listening on port  3000  with pid  14544
+[2019-03-07T17:47:52.869] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:48:54.363] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:48:54.365] [INFO] server  - env             PORT undefined
+[2019-03-07T17:48:54.365] [INFO] server  - args            PORT undefined
+[2019-03-07T17:48:54.365] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:48:54.366] [INFO] server  - Express server listening on port  3000  with pid  20676
+[2019-03-07T17:48:55.265] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:49:51.530] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:49:51.537] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:50:04.614] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:50:04.616] [INFO] server  - env             PORT undefined
+[2019-03-07T17:50:04.617] [INFO] server  - args            PORT undefined
+[2019-03-07T17:50:04.617] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:50:04.618] [INFO] server  - Express server listening on port  3000  with pid  24144
+[2019-03-07T17:50:05.587] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:50:07.521] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:50:07.526] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:50:09.342] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:50:09.345] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:50:35.331] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:50:35.333] [INFO] server  - env             PORT undefined
+[2019-03-07T17:50:35.334] [INFO] server  - args            PORT undefined
+[2019-03-07T17:50:35.334] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:50:35.334] [INFO] server  - Express server listening on port  3000  with pid  18680
+[2019-03-07T17:50:36.077] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:52:42.191] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:52:42.194] [INFO] server  - env             PORT undefined
+[2019-03-07T17:52:42.194] [INFO] server  - args            PORT undefined
+[2019-03-07T17:52:42.194] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:52:42.195] [INFO] server  - Express server listening on port  3000  with pid  444
+[2019-03-07T17:52:43.491] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:53:05.445] [INFO] UserController - All users Init
+[2019-03-07T17:53:05.619] [INFO] UserController - All users End
+[2019-03-07T17:53:29.835] [INFO] UserController - Delete user Init id: 5c817ee754f54951789e12df
+[2019-03-07T17:53:29.980] [INFO] UserController - Delete user End
+[2019-03-07T17:53:39.739] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDUwMywiZXhwIjoxNTUxOTkwNTg5fQ.QnXkZ-xTN65wTmCD6He-ydDNBGQWD12vaX8B1NU5-48
+[2019-03-07T17:53:39.745] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:53:47.764] [DEBUG] AuthContorller - Init /register
+[2019-03-07T17:53:48.138] [DEBUG] AuthContorller - /register End
+[2019-03-07T17:54:31.123] [INFO] AuthContorller - /login Init
+[2019-03-07T17:54:31.321] [INFO] AuthContorller - /login End
+[2019-03-07T17:54:40.664] [INFO] AuthContorller - /login Init
+[2019-03-07T17:54:40.833] [INFO] AuthContorller - /login End
+[2019-03-07T17:54:46.431] [INFO] AuthContorller - /login Init
+[2019-03-07T17:54:46.605] [INFO] AuthContorller - /login End
+[2019-03-07T17:55:27.133] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4NGRiNzRlYTU2MDFiYzZmOTBkMCIsImlhdCI6MTU1MTk5MjAyOCwiZXhwIjoxNTUxOTkyMTE0fQ.MqjMRrArz1KOARRKRoSEj17eoQBnCeCK-6svTYHfMqw
+[2019-03-07T17:55:27.135] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:55:44.311] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4NGRiNzRlYTU2MDFiYzZmOTBkMCIsImlhdCI6MTU1MTk5MjAyOCwiZXhwIjoxNTUxOTkyMTE0fQ.MqjMRrArz1KOARRKRoSEj17eoQBnCeCK-6svTYHfMqw
+[2019-03-07T17:55:44.315] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T17:57:57.869] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:57:57.871] [INFO] server  - env             PORT undefined
+[2019-03-07T17:57:57.872] [INFO] server  - args            PORT undefined
+[2019-03-07T17:57:57.872] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:57:57.872] [INFO] server  - Express server listening on port  3000  with pid  24680
+[2019-03-07T17:57:58.767] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T17:58:49.753] [INFO] server  - NODE_ENV        development 
+[2019-03-07T17:58:49.756] [INFO] server  - env             PORT undefined
+[2019-03-07T17:58:49.756] [INFO] server  - args            PORT undefined
+[2019-03-07T17:58:49.756] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T17:58:49.757] [INFO] server  - Express server listening on port  3000  with pid  21316
+[2019-03-07T17:58:50.538] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:01:44.064] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:01:44.067] [INFO] server  - env             PORT undefined
+[2019-03-07T18:01:44.067] [INFO] server  - args            PORT undefined
+[2019-03-07T18:01:44.067] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:01:44.068] [INFO] server  - Express server listening on port  3000  with pid  14348
+[2019-03-07T18:01:47.120] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:02:43.377] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:02:43.379] [INFO] server  - env             PORT undefined
+[2019-03-07T18:02:43.379] [INFO] server  - args            PORT undefined
+[2019-03-07T18:02:43.380] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:02:43.380] [INFO] server  - Express server listening on port  3000  with pid  24912
+[2019-03-07T18:02:44.167] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:03:56.288] [INFO] UserController - Create user Init
+[2019-03-07T18:03:57.296] [INFO] UserController - Create user End
+[2019-03-07T18:04:04.727] [INFO] UserController - Create user Init
+[2019-03-07T18:04:04.870] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:04:35.962] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE3ZWU3NTRmNTQ5NTE3ODllMTJkZiIsImlhdCI6MTU1MTk5MDg5OSwiZXhwIjoxNTUxOTkwOTg1fQ.CUgL_bW4DqLrCAbgoFY9UhWJba4diVvGh7Aoeeq77ko
+[2019-03-07T18:04:35.968] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:05:08.411] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:05:08.413] [INFO] server  - env             PORT undefined
+[2019-03-07T18:05:08.413] [INFO] server  - args            PORT undefined
+[2019-03-07T18:05:08.414] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:05:08.414] [INFO] server  - Express server listening on port  3000  with pid  8748
+[2019-03-07T18:05:09.563] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:05:20.925] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:05:20.927] [INFO] server  - env             PORT undefined
+[2019-03-07T18:05:20.928] [INFO] server  - args            PORT undefined
+[2019-03-07T18:05:20.928] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:05:20.929] [INFO] server  - Express server listening on port  3000  with pid  13452
+[2019-03-07T18:05:21.723] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:07:17.689] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:07:17.691] [INFO] server  - env             PORT undefined
+[2019-03-07T18:07:17.691] [INFO] server  - args            PORT undefined
+[2019-03-07T18:07:17.692] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:07:17.692] [INFO] server  - Express server listening on port  3000  with pid  6592
+[2019-03-07T18:07:18.487] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:07:23.381] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:07:23.383] [INFO] server  - env             PORT undefined
+[2019-03-07T18:07:23.383] [INFO] server  - args            PORT undefined
+[2019-03-07T18:07:23.384] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:07:23.384] [INFO] server  - Express server listening on port  3000  with pid  22184
+[2019-03-07T18:07:24.178] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:07:43.052] [INFO] UserController - All users Init
+[2019-03-07T18:07:43.226] [INFO] UserController - All users End
+[2019-03-07T18:11:48.317] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:11:48.319] [INFO] server  - env             PORT undefined
+[2019-03-07T18:11:48.320] [INFO] server  - args            PORT undefined
+[2019-03-07T18:11:48.320] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:11:48.320] [INFO] server  - Express server listening on port  3000  with pid  2244
+[2019-03-07T18:11:49.236] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:12:46.235] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:12:46.238] [INFO] server  - env             PORT undefined
+[2019-03-07T18:12:46.238] [INFO] server  - args            PORT undefined
+[2019-03-07T18:12:46.239] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:12:46.239] [INFO] server  - Express server listening on port  3000  with pid  17700
+[2019-03-07T18:12:47.000] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:13:05.585] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:13:05.587] [INFO] server  - env             PORT undefined
+[2019-03-07T18:13:05.588] [INFO] server  - args            PORT undefined
+[2019-03-07T18:13:05.588] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:13:05.589] [INFO] server  - Express server listening on port  3000  with pid  25112
+[2019-03-07T18:13:06.391] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:14:19.960] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:14:19.962] [INFO] server  - env             PORT undefined
+[2019-03-07T18:14:19.962] [INFO] server  - args            PORT undefined
+[2019-03-07T18:14:19.963] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:14:19.963] [INFO] server  - Express server listening on port  3000  with pid  14156
+[2019-03-07T18:14:21.011] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:14:28.625] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:14:28.629] [INFO] server  - env             PORT undefined
+[2019-03-07T18:14:28.630] [INFO] server  - args            PORT undefined
+[2019-03-07T18:14:28.631] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:14:28.633] [INFO] server  - Express server listening on port  3000  with pid  22224
+[2019-03-07T18:14:29.387] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:14:34.440] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:14:34.443] [INFO] server  - env             PORT undefined
+[2019-03-07T18:14:34.443] [INFO] server  - args            PORT undefined
+[2019-03-07T18:14:34.444] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:14:34.444] [INFO] server  - Express server listening on port  3000  with pid  22260
+[2019-03-07T18:14:35.200] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:14:46.299] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:14:46.301] [INFO] server  - env             PORT undefined
+[2019-03-07T18:14:46.302] [INFO] server  - args            PORT undefined
+[2019-03-07T18:14:46.302] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:14:46.302] [INFO] server  - Express server listening on port  3000  with pid  12264
+[2019-03-07T18:14:47.082] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:31:38.574] [INFO] UserController - All users Init
+[2019-03-07T18:31:38.731] [INFO] UserController - All users End
+[2019-03-07T18:31:47.102] [INFO] UserController - All users Init
+[2019-03-07T18:31:47.245] [INFO] UserController - All users End
+[2019-03-07T18:32:04.367] [INFO] UserController - Delete user Init id: 5c8184db74ea5601bc6f90d0
+[2019-03-07T18:32:04.511] [INFO] UserController - Delete user End
+[2019-03-07T18:32:14.840] [INFO] UserController - All users Init
+[2019-03-07T18:32:14.981] [INFO] UserController - All users End
+[2019-03-07T18:32:22.707] [INFO] UserController - Delete user Init id: 5c81873c5cf0486150f2fa7e
+[2019-03-07T18:32:22.850] [INFO] UserController - Delete user End
+[2019-03-07T18:32:41.213] [INFO] UserController - All users Init
+[2019-03-07T18:32:41.353] [INFO] UserController - All users End
+[2019-03-07T18:32:43.870] [INFO] UserController - Sinfle user  Init id: 5c8175daf387204fe4e0cbd31
+[2019-03-07T18:32:43.872] [ERROR] UserController - There was a problem finding the user.
+[2019-03-07T18:32:45.923] [INFO] UserController - Delete user Init id: 5c81873c5cf0486150f2fa7e
+[2019-03-07T18:32:46.068] [ERROR] UserController - No user found.
+[2019-03-07T18:32:48.793] [INFO] UserController - Create user Init
+[2019-03-07T18:32:49.154] [INFO] UserController - Create user End
+[2019-03-07T18:32:59.366] [INFO] UserController - Create user Init
+[2019-03-07T18:32:59.507] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:33:22.403] [INFO] AuthContorller - /login Init
+[2019-03-07T18:33:22.573] [INFO] AuthContorller - /login End
+[2019-03-07T18:34:22.535] [INFO] UserController - All users Init
+[2019-03-07T18:34:22.677] [INFO] UserController - All users End
+[2019-03-07T18:34:39.700] [DEBUG] AuthContorller - Init /register
+[2019-03-07T18:34:40.040] [DEBUG] AuthContorller - /register End
+[2019-03-07T18:34:55.141] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTAxMWJhMzg1MmZlOGJhMzE0YiIsImlhdCI6MTU1MTk5NDQwMiwiZXhwIjoxNTUxOTk1MjY2fQ._6pT1bgxIMKZHFbF5SthILAUfO4n_-mpYcPmPGuOHSQ
+[2019-03-07T18:34:55.145] [INFO] VerifyToken - verifyToken Ens userid5c818e011ba3852fe8ba314b
+[2019-03-07T18:34:55.145] [INFO] UserController - Update user Init id: 5c817ee754f54951789e12df
+[2019-03-07T18:34:55.287] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:35:28.655] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:35:28.658] [INFO] server  - env             PORT undefined
+[2019-03-07T18:35:28.658] [INFO] server  - args            PORT undefined
+[2019-03-07T18:35:28.658] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:35:28.659] [INFO] server  - Express server listening on port  3000  with pid  14912
+[2019-03-07T18:35:29.587] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:35:30.918] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTAxMWJhMzg1MmZlOGJhMzE0YiIsImlhdCI6MTU1MTk5NDQwMiwiZXhwIjoxNTUxOTk1MjY2fQ._6pT1bgxIMKZHFbF5SthILAUfO4n_-mpYcPmPGuOHSQ
+[2019-03-07T18:35:30.921] [INFO] VerifyToken - verifyToken Ens userid5c818e011ba3852fe8ba314b
+[2019-03-07T18:35:30.922] [INFO] UserController - Update user Init id: 5c817ee754f54951789e12df
+[2019-03-07T18:35:31.071] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:35:44.839] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTAxMWJhMzg1MmZlOGJhMzE0YiIsImlhdCI6MTU1MTk5NDQwMiwiZXhwIjoxNTUxOTk1MjY2fQ._6pT1bgxIMKZHFbF5SthILAUfO4n_-mpYcPmPGuOHSQ
+[2019-03-07T18:35:44.841] [INFO] VerifyToken - verifyToken Ens userid5c818e011ba3852fe8ba314b
+[2019-03-07T18:35:44.842] [INFO] UserController - Update user Init id: 5c817ee754f54951789e12df
+[2019-03-07T18:35:44.984] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:36:16.561] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:36:16.563] [INFO] server  - env             PORT undefined
+[2019-03-07T18:36:16.564] [INFO] server  - args            PORT undefined
+[2019-03-07T18:36:16.564] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:36:16.564] [INFO] server  - Express server listening on port  3000  with pid  20388
+[2019-03-07T18:36:17.348] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:36:38.068] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:36:38.070] [INFO] server  - env             PORT undefined
+[2019-03-07T18:36:38.071] [INFO] server  - args            PORT undefined
+[2019-03-07T18:36:38.072] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:36:38.072] [INFO] server  - Express server listening on port  3000  with pid  7960
+[2019-03-07T18:36:38.812] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:36:40.914] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:36:40.916] [INFO] server  - env             PORT undefined
+[2019-03-07T18:36:40.916] [INFO] server  - args            PORT undefined
+[2019-03-07T18:36:40.917] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:36:40.917] [INFO] server  - Express server listening on port  3000  with pid  17572
+[2019-03-07T18:36:41.720] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:36:50.267] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:36:50.269] [INFO] server  - env             PORT undefined
+[2019-03-07T18:36:50.270] [INFO] server  - args            PORT undefined
+[2019-03-07T18:36:50.270] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:36:50.271] [INFO] server  - Express server listening on port  3000  with pid  22784
+[2019-03-07T18:36:51.067] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:36:57.996] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:36:57.998] [INFO] server  - env             PORT undefined
+[2019-03-07T18:36:57.999] [INFO] server  - args            PORT undefined
+[2019-03-07T18:36:57.999] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:36:57.999] [INFO] server  - Express server listening on port  3000  with pid  20364
+[2019-03-07T18:36:58.774] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:37:14.466] [INFO] UserController - Update user Init id: 5c817ee754f54951789e12df
+[2019-03-07T18:37:14.616] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:37:43.871] [INFO] UserController - Sinfle user  Init id: 5c817ee754f54951789e12df
+[2019-03-07T18:37:44.011] [ERROR] UserController - No user found.
+[2019-03-07T18:37:58.857] [INFO] VerifyToken - verifyToken Init token undefined
+[2019-03-07T18:37:58.858] [ERROR] VerifyToken - No token provided
+[2019-03-07T18:38:17.426] [INFO] AuthContorller - /login Init
+[2019-03-07T18:38:17.620] [INFO] AuthContorller - /login End
+[2019-03-07T18:38:56.651] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTZmMWJhMzg1MmZlOGJhMzE0YyIsImlhdCI6MTU1MTk5NDY5NywiZXhwIjoxNTUxOTk1NTYxfQ.USUe6JRTGasZ7XXofcKsMNazqj6hJc3wrcMx0tTNTvs
+[2019-03-07T18:38:56.654] [INFO] VerifyToken - verifyToken Ens userid5c818e6f1ba3852fe8ba314c
+[2019-03-07T18:38:56.655] [INFO] UserController - All users Init
+[2019-03-07T18:38:56.797] [INFO] UserController - All users End
+[2019-03-07T18:39:12.679] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:39:12.681] [INFO] server  - env             PORT undefined
+[2019-03-07T18:39:12.682] [INFO] server  - args            PORT undefined
+[2019-03-07T18:39:12.682] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:39:12.683] [INFO] server  - Express server listening on port  3000  with pid  9532
+[2019-03-07T18:39:13.594] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:40:01.007] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:40:01.009] [INFO] server  - env             PORT undefined
+[2019-03-07T18:40:01.010] [INFO] server  - args            PORT undefined
+[2019-03-07T18:40:01.010] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:40:01.010] [INFO] server  - Express server listening on port  3000  with pid  24716
+[2019-03-07T18:40:01.770] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:40:10.856] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:40:10.858] [INFO] server  - env             PORT undefined
+[2019-03-07T18:40:10.858] [INFO] server  - args            PORT undefined
+[2019-03-07T18:40:10.858] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:40:10.859] [INFO] server  - Express server listening on port  3000  with pid  21080
+[2019-03-07T18:40:11.592] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:40:30.374] [INFO] UserController - Create user Init
+[2019-03-07T18:40:30.525] [ERROR] UserController - The email address daniel@tecnova.cl exist.
+[2019-03-07T18:40:36.408] [INFO] UserController - Create user Init
+[2019-03-07T18:40:36.778] [INFO] UserController - Create user End
+[2019-03-07T18:44:46.592] [DEBUG] AuthContorller - Init /register
+[2019-03-07T18:44:46.930] [DEBUG] AuthContorller - /register End
+[2019-03-07T18:45:07.460] [DEBUG] AuthContorller - Init /register
+[2019-03-07T18:45:07.800] [DEBUG] AuthContorller - /register End
+[2019-03-07T18:45:12.318] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTZmMWJhMzg1MmZlOGJhMzE0YyIsImlhdCI6MTU1MTk5NDY5NywiZXhwIjoxNTUxOTk1NTYxfQ.USUe6JRTGasZ7XXofcKsMNazqj6hJc3wrcMx0tTNTvs
+[2019-03-07T18:45:12.321] [INFO] VerifyToken - verifyToken Ens userid5c818e6f1ba3852fe8ba314c
+[2019-03-07T18:45:12.321] [INFO] UserController - All users Init
+[2019-03-07T18:45:12.490] [INFO] UserController - All users End
+[2019-03-07T18:46:06.714] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:46:06.856] [ERROR] UserController - The email address daniel@tecnova.cl exist for other user.
+[2019-03-07T18:46:14.916] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:46:15.080] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:47:21.381] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:47:21.384] [INFO] server  - env             PORT undefined
+[2019-03-07T18:47:21.384] [INFO] server  - args            PORT undefined
+[2019-03-07T18:47:21.385] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:47:21.385] [INFO] server  - Express server listening on port  3000  with pid  20628
+[2019-03-07T18:47:22.253] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:47:24.603] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:47:24.758] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:48:07.800] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:48:07.802] [INFO] server  - env             PORT undefined
+[2019-03-07T18:48:07.803] [INFO] server  - args            PORT undefined
+[2019-03-07T18:48:07.803] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:48:07.804] [INFO] server  - Express server listening on port  3000  with pid  18228
+[2019-03-07T18:48:08.667] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:48:10.876] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:48:11.066] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:49:35.942] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:49:35.945] [INFO] server  - env             PORT undefined
+[2019-03-07T18:49:35.945] [INFO] server  - args            PORT undefined
+[2019-03-07T18:49:35.945] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:49:35.946] [INFO] server  - Express server listening on port  3000  with pid  19428
+[2019-03-07T18:49:36.806] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:49:43.137] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:49:43.290] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:50:18.965] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:50:18.968] [INFO] server  - env             PORT undefined
+[2019-03-07T18:50:18.968] [INFO] server  - args            PORT undefined
+[2019-03-07T18:50:18.968] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:50:18.969] [INFO] server  - Express server listening on port  3000  with pid  10556
+[2019-03-07T18:50:19.695] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:50:20.461] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:50:20.622] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:50:33.867] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:50:33.870] [INFO] server  - env             PORT undefined
+[2019-03-07T18:50:33.870] [INFO] server  - args            PORT undefined
+[2019-03-07T18:50:33.870] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:50:33.871] [INFO] server  - Express server listening on port  3000  with pid  5940
+[2019-03-07T18:50:34.632] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:50:35.487] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:50:35.644] [ERROR] UserController - The email address pala@tecnova.cl exist for other user.
+[2019-03-07T18:50:55.981] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:50:55.984] [INFO] server  - env             PORT undefined
+[2019-03-07T18:50:55.984] [INFO] server  - args            PORT undefined
+[2019-03-07T18:50:55.985] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:50:55.985] [INFO] server  - Express server listening on port  3000  with pid  19008
+[2019-03-07T18:50:56.778] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:50:58.083] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:50:58.439] [INFO] UserController - Update user End
+[2019-03-07T18:51:30.167] [INFO] UserController - Update user Init id: 5c8190ce9f00ba525868342f
+[2019-03-07T18:51:30.478] [INFO] UserController - Update user End
+[2019-03-07T18:52:21.362] [INFO] UserController - Update user Init id: 5c8190e39f00ba5258683430
+[2019-03-07T18:52:21.504] [ERROR] UserController - The email address pala2@tecnova.cl exist for other user.
+[2019-03-07T18:52:37.554] [INFO] UserController - Update user Init id: 5c8190e39f00ba5258683430
+[2019-03-07T18:52:37.712] [ERROR] UserController - The email address pala2@tecnova.cl exist for other user.
+[2019-03-07T18:52:46.009] [INFO] UserController - Update user Init id: 5c8190e39f00ba5258683430
+[2019-03-07T18:52:46.327] [INFO] UserController - Update user End
+[2019-03-07T18:53:15.577] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:53:15.579] [INFO] server  - env             PORT undefined
+[2019-03-07T18:53:15.579] [INFO] server  - args            PORT undefined
+[2019-03-07T18:53:15.580] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:53:15.580] [INFO] server  - Express server listening on port  3000  with pid  17276
+[2019-03-07T18:53:16.511] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:53:25.859] [INFO] server  - NODE_ENV        development 
+[2019-03-07T18:53:25.861] [INFO] server  - env             PORT undefined
+[2019-03-07T18:53:25.862] [INFO] server  - args            PORT undefined
+[2019-03-07T18:53:25.862] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T18:53:25.863] [INFO] server  - Express server listening on port  3000  with pid  18144
+[2019-03-07T18:53:26.649] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T18:55:47.858] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4NGRiNzRlYTU2MDFiYzZmOTBkMCIsImlhdCI6MTU1MTk5MjAyOCwiZXhwIjoxNTUxOTkyMTE0fQ.MqjMRrArz1KOARRKRoSEj17eoQBnCeCK-6svTYHfMqw
+[2019-03-07T18:55:47.864] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:56:14.341] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE4ZTZmMWJhMzg1MmZlOGJhMzE0YyIsImlhdCI6MTU1MTk5NDY5NywiZXhwIjoxNTUxOTk1NTYxfQ.USUe6JRTGasZ7XXofcKsMNazqj6hJc3wrcMx0tTNTvs
+[2019-03-07T18:56:14.346] [ERROR] VerifyToken - Failed to authenticate token.
+[2019-03-07T18:56:47.103] [DEBUG] AuthContorller - Init /register
+[2019-03-07T18:56:47.463] [DEBUG] AuthContorller - /register End
+[2019-03-07T18:57:16.178] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T18:57:16.179] [INFO] VerifyToken - verifyToken Ens userid5c81939fe4edce46e0e871af
+[2019-03-07T18:57:16.180] [DEBUG] AuthContorller - /me Init
+[2019-03-07T18:57:16.325] [DEBUG] AuthContorller - /me End
+[2019-03-07T19:08:21.562] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:08:21.564] [INFO] server  - env             PORT undefined
+[2019-03-07T19:08:21.565] [INFO] server  - args            PORT undefined
+[2019-03-07T19:08:21.565] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:08:21.566] [INFO] server  - Express server listening on port  3000  with pid  21640
+[2019-03-07T19:08:22.578] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:08:32.972] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:08:32.974] [INFO] server  - env             PORT undefined
+[2019-03-07T19:08:32.975] [INFO] server  - args            PORT undefined
+[2019-03-07T19:08:32.975] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:08:32.976] [INFO] server  - Express server listening on port  3000  with pid  22240
+[2019-03-07T19:08:33.698] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:08:40.824] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T19:08:40.827] [INFO] VerifyToken - verifyToken Ens userid5c81939fe4edce46e0e871af
+[2019-03-07T19:08:40.828] [DEBUG] AuthContorller - /me Init
+[2019-03-07T19:08:40.982] [DEBUG] AuthContorller - /me End
+[2019-03-07T19:08:42.200] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T19:08:42.202] [INFO] VerifyToken - verifyToken Ens userid5c81939fe4edce46e0e871af
+[2019-03-07T19:08:42.202] [DEBUG] AuthContorller - /me Init
+[2019-03-07T19:08:42.341] [DEBUG] AuthContorller - /me End
+[2019-03-07T19:08:44.657] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTaRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T19:08:44.658] [ERROR] VerifyToken - Failed to authenticate token Unexpected end of JSON input
+[2019-03-07T19:08:57.513] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTaRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T19:08:57.514] [ERROR] VerifyToken - Failed to authenticate token Unexpected end of JSON input
+[2019-03-07T19:09:02.995] [INFO] VerifyToken - verifyToken Init token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjODE5MzlmZTRlZGNlNDZlMGU4NzFhZiIsImlhdCI6MTU1MTk5NTgwNywiZXhwIjoxNTUxOTk2NjcxfQ.Mn1_DKwpDaGa1RI0XZLh0qfJ73E6aL31n9GnaGRyFls
+[2019-03-07T19:09:02.996] [INFO] VerifyToken - verifyToken Ens userid5c81939fe4edce46e0e871af
+[2019-03-07T19:09:02.996] [DEBUG] AuthContorller - /me Init
+[2019-03-07T19:09:03.133] [DEBUG] AuthContorller - /me End
+[2019-03-07T19:09:14.042] [INFO] VerifyToken - verifyToken Init token eyJ
+[2019-03-07T19:09:14.042] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:10:02.312] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:10:02.314] [INFO] server  - env             PORT undefined
+[2019-03-07T19:10:02.315] [INFO] server  - args            PORT undefined
+[2019-03-07T19:10:02.315] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:10:02.315] [INFO] server  - Express server listening on port  3000  with pid  19720
+[2019-03-07T19:10:03.313] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:10:08.947] [INFO] VerifyToken - verifyToken Init 
+[2019-03-07T19:10:08.948] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:10:15.881] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:10:15.883] [INFO] server  - env             PORT undefined
+[2019-03-07T19:10:15.883] [INFO] server  - args            PORT undefined
+[2019-03-07T19:10:15.884] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:10:15.884] [INFO] server  - Express server listening on port  3000  with pid  25076
+[2019-03-07T19:10:16.508] [INFO] VerifyToken - verifyToken Init 
+[2019-03-07T19:10:16.509] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-07T19:10:16.654] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:10:23.984] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:10:23.986] [INFO] server  - env             PORT undefined
+[2019-03-07T19:10:23.987] [INFO] server  - args            PORT undefined
+[2019-03-07T19:10:23.987] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:10:23.987] [INFO] server  - Express server listening on port  3000  with pid  13328
+[2019-03-07T19:10:24.780] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:12:32.290] [INFO] server  - NODE_ENV        development 
+[2019-03-07T19:12:32.292] [INFO] server  - env             PORT undefined
+[2019-03-07T19:12:32.293] [INFO] server  - args            PORT undefined
+[2019-03-07T19:12:32.293] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-07T19:12:32.293] [INFO] server  - Express server listening on port  3000  with pid  17804
+[2019-03-07T19:12:33.291] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-07T19:12:53.233] [INFO] VerifyToken - verifyToken Init
+[2019-03-07T19:12:53.235] [ERROR] VerifyToken - Failed to authenticate token jwt malformed
+[2019-03-08T10:03:29.760] [INFO] server  - NODE_ENV        development 
+[2019-03-08T10:03:29.763] [INFO] server  - env             PORT undefined
+[2019-03-08T10:03:29.763] [INFO] server  - args            PORT undefined
+[2019-03-08T10:03:29.764] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-08T10:03:29.764] [INFO] server  - Express server listening on port  3000  with pid  21528
+[2019-03-08T10:03:30.818] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-08T10:03:54.278] [INFO] server  - NODE_ENV        development 
+[2019-03-08T10:03:54.280] [INFO] server  - env             PORT undefined
+[2019-03-08T10:03:54.281] [INFO] server  - args            PORT undefined
+[2019-03-08T10:03:54.281] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-08T10:03:54.281] [INFO] server  - Express server listening on port  3000  with pid  23592
+[2019-03-08T10:03:56.199] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-08T11:49:14.477] [INFO] server  - NODE_ENV        development 
+[2019-03-08T11:49:14.479] [INFO] server  - env             PORT undefined
+[2019-03-08T11:49:14.480] [INFO] server  - args            PORT undefined
+[2019-03-08T11:49:14.480] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-08T11:49:14.481] [INFO] server  - Express server listening on port  3000  with pid  22624
+[2019-03-08T11:49:15.415] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-08T12:48:30.665] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.666] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.677] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.678] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.737] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.738] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.739] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.740] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.742] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.742] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.743] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.744] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.746] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.746] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.747] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.748] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.750] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.750] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T12:48:30.752] [ERROR] app - catch 404 and forward to error handler:
+[2019-03-08T12:48:30.752] [INFO] app - catch 404 : Error request URL not found
+[2019-03-08T16:50:35.580] [INFO] server  - NODE_ENV        development 
+[2019-03-08T16:50:35.582] [INFO] server  - env             PORT undefined
+[2019-03-08T16:50:35.583] [INFO] server  - args            PORT undefined
+[2019-03-08T16:50:35.583] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-08T16:50:35.583] [INFO] server  - Express server listening on port  3000  with pid  21996
+[2019-03-08T16:50:36.544] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-11T13:49:59.294] [INFO] server  - NODE_ENV        development 
+[2019-03-11T13:49:59.297] [INFO] server  - env             PORT undefined
+[2019-03-11T13:49:59.297] [INFO] server  - args            PORT undefined
+[2019-03-11T13:49:59.298] [INFO] server  - pacakge.json    PORT 3000
+[2019-03-11T13:49:59.298] [INFO] server  - Express server listening on port  3000  with pid  8276
+[2019-03-11T13:50:00.142] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-03-11T15:36:21.181] [INFO] VerifyToken - verifyToken Init
+[2019-03-11T15:36:21.183] [ERROR] VerifyToken - Failed to authenticate token jwt expired
+[2019-03-11T16:25:32.184] [DEBUG] AuthContorller - Init /register
+[2019-03-11T16:25:32.613] [DEBUG] AuthContorller - /register End
+[2019-03-11T16:26:18.301] [DEBUG] AuthContorller - Init /register
+[2019-03-11T16:26:18.650] [DEBUG] AuthContorller - /register End
+[2019-03-11T16:29:05.739] [DEBUG] AuthContorller - Init /register
+[2019-03-11T16:29:06.090] [DEBUG] AuthContorller - /register End
+[2019-03-11T16:29:18.849] [INFO] AuthContorller - /login Init
+[2019-03-11T16:29:19.039] [INFO] AuthContorller - /login End
+[2019-03-11T16:31:41.206] [INFO] VerifyToken - verifyToken Init
+[2019-03-11T16:31:41.207] [ERROR] VerifyToken - Failed to authenticate token invalid token
+[2019-03-11T16:32:18.684] [INFO] VerifyToken - verifyToken Init
+[2019-03-11T16:32:18.685] [INFO] VerifyToken - verifyToken Ens userid5c86b70146bde5205452678c
+[2019-03-11T16:32:18.686] [DEBUG] AuthContorller - /me Init
+[2019-03-11T16:32:18.849] [DEBUG] AuthContorller - /me End
+[2019-04-17T16:31:20.688] [INFO] server  - NODE_ENV        development 
+[2019-04-17T16:31:20.691] [INFO] server  - env             PORT 1111 
+[2019-04-17T16:31:20.691] [INFO] server  - args            PORT 7777
+[2019-04-17T16:31:20.692] [INFO] server  - pacakge.json    PORT 3000
+[2019-04-17T16:31:20.692] [INFO] server  - Express server listening on port  1111  with pid  30180
+[2019-04-17T16:31:21.540] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-04-17T16:35:12.126] [INFO] server  - NODE_ENV        development 
+[2019-04-17T16:35:12.128] [INFO] server  - env             PORT 1111 
+[2019-04-17T16:35:12.129] [INFO] server  - args            PORT 7777
+[2019-04-17T16:35:12.129] [INFO] server  - pacakge.json    PORT 3000
+[2019-04-17T16:35:12.129] [INFO] server  - Express server listening on port  1111  with pid  19784
+[2019-04-17T16:35:12.963] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-04-17T16:36:49.146] [INFO] server  - NODE_ENV        development 
+[2019-04-17T16:36:49.148] [INFO] server  - env             PORT 3000 
+[2019-04-17T16:36:49.148] [INFO] server  - args            PORT 7777
+[2019-04-17T16:36:49.149] [INFO] server  - pacakge.json    PORT 3000
+[2019-04-17T16:36:49.149] [INFO] server  - Express server listening on port  3000  with pid  34912
+[2019-04-17T16:36:50.011] [INFO] app  - mongoDB runing UTL .mongodb://mongouser:mongouser1@ds113636.mlab.com:13636/samplemongo
+[2019-04-17T16:37:12.030] [INFO] VerifyToken - verifyToken Init
+[2019-04-17T16:37:12.033] [ERROR] VerifyToken - Failed to authenticate token jwt expired
+[2019-04-17T16:37:33.646] [INFO] AuthContorller - /login Init
+[2019-04-17T16:37:33.883] [INFO] AuthContorller - /login End
+[2019-04-17T16:38:08.259] [INFO] VerifyToken - verifyToken Init
+[2019-04-17T16:38:08.260] [INFO] VerifyToken - verifyToken Ens userid5c86b70146bde5205452678c
+[2019-04-17T16:38:08.261] [INFO] UserController - All users Init
+[2019-04-17T16:38:08.403] [INFO] UserController - All users End
