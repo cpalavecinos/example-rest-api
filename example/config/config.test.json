@@ -1,6 +1,6 @@
 {
   "name": "SERVER Test Mode",
   "secret": "supersecret",
-  "mongoURL": "mongodb://mongo-node-1:27017,mongo-node-2:27017/exampleDB?replicaSet=rs0",
+  "mongoURL": "mongodb://mongo-0.mongo,mongo-1.mongo,mongo-2.mongo:27017/exampleDB?replicaSet=rs0",
   "expiresIn": "864000"
 }
